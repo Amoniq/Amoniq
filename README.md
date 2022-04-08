@@ -1,4 +1,4 @@
-### Oiê 😜
+### Oiê ✌🏽😜
 
 - 🌱 Estudando JavaScript
 
