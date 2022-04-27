@@ -1,6 +1,5 @@
 ### Oiê ✌🏽😜
 
-- 🌱 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Amoniq">
