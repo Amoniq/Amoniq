@@ -24,7 +24,6 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 #### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0173C1&labelColor=0D1117)&nbsp;
